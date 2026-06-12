@@ -1,0 +1,108 @@
+# Interactive Dashboard Development using Streamlit
+
+## Overview
+
+This project is an interactive sales analytics dashboard built using Streamlit and Python.
+
+Users can filter data dynamically and visualize key business metrics through charts and KPI cards.
+
+---
+
+## Features
+
+- Interactive Dashboard
+- Region-based Filtering
+- KPI Metrics
+- Sales Visualization
+- Monthly Trend Analysis
+- Download Filtered Data
+- Responsive Layout
+
+---
+
+## Technologies Used
+
+- Python
+- Streamlit
+- Pandas
+- Matplotlib
+
+---
+
+## Project Workflow
+
+1. Load sales dataset
+2. Apply user filters
+3. Calculate KPIs
+4. Generate visualizations
+5. Display interactive tables
+6. Export filtered data
+
+---
+
+## Installation
+
+Clone repository:
+
+```bash
+git clone <repository-url>
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## Run Application
+
+```bash
+streamlit run dashboard.py
+```
+
+---
+
+## Dashboard Components
+
+### KPI Cards
+
+- Total Sales
+- Total Orders
+- Average Sales
+
+### Charts
+
+- Sales by Region
+- Monthly Sales Trend
+
+### Data Table
+
+- Interactive Dataset View
+
+### Export Feature
+
+- Download Filtered CSV
+
+---
+
+## Future Enhancements
+
+- Database Integration
+- User Authentication
+- Real-Time Data Updates
+- Machine Learning Forecasting
+- Dark Mode Support
+
+---
+
+## Screenshots
+
+Add dashboard screenshots after running the application.
+
+---
+
+## Author
+
+Your Name
